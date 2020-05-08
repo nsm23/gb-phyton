@@ -1,6 +1,6 @@
 def my_func(*args):
-    num_1 = int(input('Enter first number: '))
     try:
+        num_1 = int(input('Enter first number: '))
         num_2 = int(input('Enter second number: '))
         div = num_1 / num_2
     except ValueError:
