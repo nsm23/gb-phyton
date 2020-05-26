@@ -1,0 +1,4 @@
+mac 500.0 3 notebook 1
+hp 400.0 4 scanner 2
+kyosera 150.0 22 printer 3
+
